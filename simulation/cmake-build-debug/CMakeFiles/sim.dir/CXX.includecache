@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/lrc/code/simulation/main.cpp
+iostream
+-
+vector
+-
+unordered_map
+-
+algorithm
+-
+tuple
+-
+numeric
+-
+unordered_set
+-
+set
+-
+
